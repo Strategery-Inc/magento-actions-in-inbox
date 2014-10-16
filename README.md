@@ -4,6 +4,7 @@ Gmail Actions in the Inbox
 ###### By Strategery, Inc.
 
 Magento extension that adds Schema.org markup to outgoing emails, as specified by Gmail's "Actions in the Inbox" feature.
+![Screenshot](https://s3.amazonaws.com/strategery-magento-connect/gmail-actions-in-the-inbox/screenshot-1.png)
 
 # Issues
 If you have any issues please report them in the [Issues](https://github.com/Strategery-Inc/magento-actions-in-inbox/issues) section.
